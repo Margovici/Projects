@@ -1,9 +1,9 @@
 # Projects
 Personal projects
 
-CV Folder is a folder where i made my cv as a web page with HTML and CSS.
+CV is a folder where i made my cv as a web page with HTML and CSS.
 
-Banners.Zip is a folder where i put my designs made as a Graphic Designer intern at a marketing company.
+Banners.Zip is a folder where i put my designs made as a Graphic Design intern at a marketing company.
 
 In the Figma links you can find my designs in Figma one done and one is for a scheduling app, and the other, still in progress, is a landing page for a university project on Custom Cars, which will later be implemented as a web page.
 
